@@ -8,8 +8,8 @@ import Blog from "./components/blog/blog";
 import ListPage from "./routes/list/list";
 import  RegisterPage from './components/choix/choix';
 import SinglePage from "./routes/singlepage/singlepage";
-import Profile from "./profile/profile";
-import Feedbacks from "./feedback/feedback";
+import Profile from "./routes/profile/profile";
+import Feedbacks from "./components/feedback/feedback";
 import Footer from "./components/footer/footer";
 import BlogPost from "./routes/blogpost/blogpost";
 
